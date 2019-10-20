@@ -12,6 +12,3 @@ It might to useful to someone. Please have a look at it.
 
 LinkedIn Profile - 
 <a href = "https://www.linkedin.com/in/mohan-vs-1906017/" target="_blank"  rel="noopener"> Mohan Vallivedu Sudhakar</a>
-
-
-[Mohan Vallivedu Sudhakar](https://www.linkedin.com/in/mohan-vs-1906017) {:target="_blank" rel="noopener"}
